@@ -32,7 +32,7 @@ void Main_OnCommand(HWND hwnd, int id, HWND hwndCtl, UINT codeNotify)
 		}
         break;
         default:
-		break;
+	break;
     }
 }
 
